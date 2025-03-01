@@ -73,5 +73,4 @@ and (re)compiling the source code.
 
 Overview
 --------
-![image](https://github.com/sl903dj/suckless/blob/statuscmd/2024-03-15_21-14.png)
-![image](https://github.com/sl903dj/suckless/blob/statuscmd/2024-03-15_21-15.png)
+![image](https://github.com/sl903dj/dwm-overview/blob/master/2025-03-01_23-01.png)
